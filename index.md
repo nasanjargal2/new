@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Сайн байна уу? Би О.Насанжаргал байна
 
 You can use the [editor on GitHub](https://github.com/nasanjargal2/new/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
