@@ -1,6 +1,7 @@
 ## Сайн байна уу? Би О.Насанжаргал байна
 
-You can use the [editor on GitHub](https://github.com/nasanjargal2/new/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Доорх хаягаар хандаж миний хөгжүүлсэн web site demo хувилбартай танилцана уу. хаяг: https://nasaa.netlify.app/
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
